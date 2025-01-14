@@ -1,4 +1,4 @@
-# **🎥 Netflix Analytics Dashboard Using Power BI**  
+# **🎥 Netflix Analytics Power BI Dashboard**  
 
 ![image](https://github.com/user-attachments/assets/396b1d6b-c22a-4949-a9a1-32cfcc41cd9a)
 
