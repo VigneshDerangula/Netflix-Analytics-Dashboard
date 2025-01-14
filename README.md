@@ -2,7 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/396b1d6b-c22a-4949-a9a1-32cfcc41cd9a)
 
-
 ## **Key Features and Visuals**  
 
 ### **📊 KPI Cards**  
